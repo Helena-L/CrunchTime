@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Crunch Time</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="convert_button">CONVERT!</string>
+    <string name="calculate_button">CALCULATE!</string>
+
+    <string name="calorie_title">CALORIE BURNED!</string>
+    <string name="exercise_text">Select type of exercise</string>
+    <string name="enter_exercise">Enter amount of exercise</string>
+    <string name="compare_title">COMPARED WITH</string>
+    <string name="compare_text">WOW, this is equivalent to </string>
+
+    <string-array name="exercise_list">
+        <item>Pushups</item>
+        <item>Situps</item>
+        <item>Squats</item>
+        <item>Leg-lifts</item>
+        <item>Plank</item>
+        <item>Jumping Jacks</item>
+        <item>Pullups</item>
+        <item>Cycling</item>
+        <item>Walking</item>
+        <item>Jogging</item>
+        <item>Swimming</item>
+        <item>Stair-Climbing</item>
+    </string-array>
+
+    <string-array name="unit_list">
+        <item>Reps</item>
+        <item>Minutes</item>
+    </string-array>
+
+
+</resources>
